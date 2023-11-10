@@ -63,4 +63,4 @@ jobs:
           app-name: 'laravelpj-webapp-azure'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_9573D2C7F9F742C3A7B1B479E1EA2FA3 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_644D5E4488C3454991FB81B6C8709B06 }}
